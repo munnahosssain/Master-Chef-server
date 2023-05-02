@@ -16,10 +16,8 @@ app.get("/chefInfo", (req, res) => {
 });
 
 app.get("/chefInfo/:id", (req, res) => {
-    const id = req.params.id;
-    console.log(id);
-    const chefInformation = chefInfo.filter(chef => chef._id === id);
-    console.log(chefInformation);
+    const id = parseInt(req.params.id);
+    const chefInformation = chefInfo.find(chef => chef._id === id);
     res.send(chefInformation);
 });
 
