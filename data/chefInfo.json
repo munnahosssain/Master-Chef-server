@@ -1,7 +1,7 @@
 [
     {
         "_id": 1,
-        "chefPicture": "img2.jpg",
+        "chefPicture": "https://i.postimg.cc/QtPJc40V/1.jpg",
         "chefName": "Ahmed Abdullah",
         "yearsOfExperience": 10,
         "numberOfRecipes": 75,
@@ -56,9 +56,9 @@
         ]
     },
     {
-        "_id": 3,
-        "chefPicture": "img3.jpg",
-        "chefName": "Fatima Al-Said",
+        "_id": 2,
+        "chefPicture": "https://i.postimg.cc/sxrvF52w/2.jpg",
+        "chefName": "Doha Al-Said",
         "yearsOfExperience": 15,
         "numberOfRecipes": 100,
         "likes": 50,
@@ -118,8 +118,8 @@
     },
     {
         "_id": 3,
-        "chefPicture": "img3.jpg",
-        "chefName": "Fatima Ali",
+        "chefPicture": "https://i.postimg.cc/Jz20rfny/3.jpg",
+        "chefName": "Ahmed Ali",
         "yearsOfExperience": 15,
         "numberOfRecipes": 100,
         "likes": 50,
@@ -182,8 +182,8 @@
     },
     {
         "_id": 4,
-        "chefPicture": "img4.jpg",
-        "chefName": "Fatima Al-Sayed",
+        "chefPicture": "https://i.postimg.cc/zv8X25dQ/4.jpg",
+        "chefName": "Abdullah Al-Sayed",
         "yearsOfExperience": 15,
         "numberOfRecipes": 120,
         "likes": 42,
@@ -245,8 +245,8 @@
     },
     {
         "_id": 5,
-        "chefPicture": "img5.jpg",
-        "chefName": "Fatima Ibrahim",
+        "chefPicture": "https://i.postimg.cc/s25rkqZC/5.jpg",
+        "chefName": "Ibrahim Al-Saud",
         "yearsOfExperience": 8,
         "numberOfRecipes": 50,
         "likes": 27,
@@ -299,9 +299,9 @@
         ]
     },
     {
-        "id": 6,
-        "chefPicture": "img6.jpg",
-        "chefName": "Laila Khalid",
+        "_id": 6,
+        "chefPicture": "https://i.postimg.cc/Y0sZGzmx/6.jpg",
+        "chefName": "Khalid Ibrahim",
         "yearsOfExperience": 8,
         "numberOfRecipes": 60,
         "likes": 45,
