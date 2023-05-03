@@ -11,6 +11,7 @@
         "recipes": [
             {
                 "name": "Hummus",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "chickpeas",
                     "tahini",
@@ -25,14 +26,13 @@
             },
             {
                 "name": "Shakshuka",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "tomatoes",
                     "bell peppers",
                     "onion",
                     "eggs",
-                    "cumin",
-                    "paprika",
-                    "salt"
+                    "cumin"
                 ],
                 "method": "1. Chop tomatoes, bell peppers, and onion. \\n2. Sauté vegetables in a pan until soft. \\n3. Add cumin, paprika, and salt to taste. \\n4. Crack eggs into the pan, cover, and cook until the whites are set but yolks are still runny. \\n5. Serve hot with bread.",
                 "rating": 4.4,
@@ -40,15 +40,14 @@
             },
             {
                 "name": "Tabbouleh",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "parsley",
                     "tomatoes",
                     "mint",
                     "onion",
                     "lemon juice",
-                    "olive oil",
-                    "bulgur",
-                    "salt"
+                    "olive oil"
                 ],
                 "method": "1. Soak bulgur in water for 30 minutes, then drain. \\n2. Finely chop parsley, mint, and onion. \\n3. Dice tomatoes. \\n4. Mix all ingredients in a bowl. \\n5. Dress with lemon juice, olive oil, and salt to taste. \\n6. Chill for at least an hour before serving.",
                 "rating": 4.9,
@@ -68,6 +67,7 @@
         "recipes": [
             {
                 "name": "Mujadara",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "brown lentils",
                     "rice",
@@ -82,17 +82,14 @@
             },
             {
                 "name": "Kabsa",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "chicken",
                     "rice",
                     "tomatoes",
                     "onion",
                     "garlic",
-                    "cumin",
-                    "turmeric",
-                    "cinnamon",
-                    "cardamom",
-                    "salt"
+                    "cumin"
                 ],
                 "method": "1. Cook chicken in a pot with water until tender. \n2. Remove chicken from pot and set aside. \n3. Reserve chicken broth. \n4. In a pan, sauté onion and garlic in oil until golden brown. \n5. Add tomatoes and cook until they soften. \n6. Add cumin, turmeric, cinnamon, cardamom, and salt to the pan. \n7. Add rice and stir to coat in the spices. \n8. Add enough chicken broth to the pan to cover the rice by about an inch. \n9. Bring to a boil, then reduce heat and simmer until rice is cooked. \n10. Serve hot with the cooked chicken.",
                 "rating": 4.8,
@@ -100,17 +97,13 @@
             },
             {
                 "name": "Fattoush",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "lettuce",
                     "tomatoes",
                     "cucumber",
                     "radish",
-                    "onion",
-                    "pita bread",
-                    "olive oil",
-                    "lemon juice",
-                    "sumac",
-                    "salt"
+                    "onion"
                 ],
                 "method": "1. Tear lettuce leaves into bite-size pieces. \n2. Dice tomatoes, cucumber, and radish. \n3. Finely chop onion. \n4. Toast pita bread and break into small pieces. \n5. Mix all ingredients in a bowl. \n6. Dress with olive oil, lemon juice, sumac, and salt to taste. \n7. Serve immediately.",
                 "rating": 4.5,
@@ -130,15 +123,13 @@
         "recipes": [
             {
                 "name": "Mansaf",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "lamb",
                     "yogurt",
                     "rice",
                     "almonds",
-                    "onion",
-                    "garlic",
-                    "salt",
-                    "black pepper"
+                    "onion"
                 ],
                 "method": "1. Cook lamb in water until tender. \\n2. Remove lamb and cook rice in lamb broth. \\n3. Mix yogurt with minced garlic and heat until warm. \\n4. Arrange rice on a serving platter, top with lamb, then pour yogurt mixture over the lamb. \\n5. Garnish with toasted almonds, sautéed onions, and black pepper.",
                 "rating": 4.8,
@@ -146,18 +137,13 @@
             },
             {
                 "name": "Kabsa",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "chicken",
                     "rice",
                     "tomatoes",
                     "onion",
-                    "garlic",
-                    "cinnamon",
-                    "cumin",
-                    "turmeric",
-                    "cardamom",
-                    "bay leaves",
-                    "salt"
+                    "garlic"
                 ],
                 "method": "1. Brown chicken in oil. \\n2. Remove chicken and sauté onion and garlic. \\n3. Add tomatoes, spices, and chicken broth. \\n4. Add rice and bring to a boil, then simmer until rice is tender. \\n5. Serve chicken on top of rice.",
                 "rating": 4.6,
@@ -165,17 +151,13 @@
             },
             {
                 "name": "Falafel",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "chickpeas",
                     "onion",
                     "garlic",
                     "coriander",
-                    "cumin",
-                    "flour",
-                    "baking powder",
-                    "salt",
-                    "black pepper",
-                    "oil"
+                    "cumin"
                 ],
                 "method": "1. Soak chickpeas overnight. \\n2. Drain and blend chickpeas with onion, garlic, coriander, cumin, flour, baking powder, salt, and black pepper. \\n3. Form into balls or patties and fry in oil until golden brown. \\n4. Serve with tahini sauce or yogurt sauce.",
                 "rating": 4.9,
@@ -195,16 +177,14 @@
         "recipes": [
             {
                 "name": "Mansaf",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "lamb meat",
                     "jameed (dried yogurt)",
                     "rice",
                     "almonds",
                     "parsley",
-                    "onion",
-                    "salt",
-                    "black pepper",
-                    "cardamom"
+                    "onion"
                 ],
                 "method": "1. Soak jameed in water until it softens. \n2. Cook lamb meat in a large pot with water and spices until tender. \n3. Add jameed to the pot and stir. \n4. Boil for 10 minutes, then simmer until the sauce thickens. \n5. Serve with rice and garnish with almonds and parsley.",
                 "rating": 4.8,
@@ -212,6 +192,7 @@
             },
             {
                 "name": "Kabsa",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "chicken",
                     "rice",
@@ -219,12 +200,7 @@
                     "onion",
                     "garlic",
                     "ginger",
-                    "cinnamon",
-                    "cardamom",
-                    "bay leaves",
-                    "saffron",
-                    "salt",
-                    "black pepper"
+                    "cinnamon"
                 ],
                 "method": "1. Fry chicken in a large pot until golden brown. \n2. Remove chicken from the pot and set aside. \n3. Sauté onion, garlic, and ginger in the same pot until golden. \n4. Add tomatoes and spices to the pot and cook until the tomatoes soften. \n5. Add rice and water to the pot and bring to a boil. \n6. Reduce heat and simmer until rice is cooked. \n7. Serve with chicken on top.",
                 "rating": 4.6,
@@ -232,14 +208,13 @@
             },
             {
                 "name": "Baklava",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "phyllo dough",
                     "butter",
                     "walnuts",
                     "sugar",
-                    "cinnamon",
-                    "water",
-                    "honey"
+                    "cinnamon"
                 ],
                 "method": "1. Preheat oven to 350°F (175°C). \n2. Melt butter in a small pot. \n3. Mix walnuts, sugar, and cinnamon in a bowl. \n4. Grease a baking dish with butter. \n5. Layer phyllo dough in the dish, brushing each layer with butter. \n6. Sprinkle walnut mixture over the layers. \n7. Add another layer of phyllo dough, brushing each layer with butter. \n8. Cut the baklava into diamond shapes. \n9. Bake for 25-30 minutes, or until golden brown. \n10. Mix water and honey in a small pot and bring to a boil. \n11. Pour the honey mixture over the baklava while it's still hot. \n12. Let cool before serving.",
                 "rating": 4.9,
@@ -259,15 +234,13 @@
         "recipes": [
             {
                 "name": "Kabsa",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "chicken",
                     "rice",
                     "tomatoes",
                     "onions",
-                    "garlic",
-                    "spices",
-                    "olive oil",
-                    "water"
+                    "garlic"
                 ],
                 "method": "1. Brown chicken in olive oil and remove from pan. \n2. Sauté onions and garlic in same pan until soft. \n3. Add tomatoes and spices, cooking for a few minutes. \n4. Add rice and chicken back to pan, stirring to coat. \n5. Pour in water and bring to a boil. \n6. Cover and reduce heat, cooking until rice is done. \n7. Serve hot with salad.",
                 "rating": 4.5,
@@ -275,6 +248,7 @@
             },
             {
                 "name": "Harees",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "wheat",
                     "chicken",
@@ -289,6 +263,7 @@
             },
             {
                 "name": "Mandi",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "chicken",
                     "rice",
@@ -315,16 +290,14 @@
         "recipes": [
             {
                 "name": "Mansaf",
+                "img": "https://i.postimg.cc/3rtzBrpz/meat.jpg",
                 "ingredients": [
                     "lamb meat",
                     "yogurt",
                     "rice",
                     "onion",
                     "almonds",
-                    "salt",
-                    "black pepper",
-                    "cinnamon",
-                    "cardamom"
+                    "salt"
                 ],
                 "method": "1. Boil lamb meat until tender. \n2. Remove meat and set aside. \n3. Mix yogurt with some of the lamb broth until smooth. \n4. Fry onion until golden brown. \n5. Add cooked meat, yogurt mixture, and spices to the pot. \n6. Cook until the yogurt is heated through. \n7. Serve over rice and sprinkle with toasted almonds.",
                 "rating": 4.8,
@@ -332,13 +305,13 @@
             },
             {
                 "name": "Knafeh",
+                "img": "https://i.postimg.cc/hvRvZ8HP/meat-2.jpg",
                 "ingredients": [
                     "shredded phyllo dough",
                     "butter",
                     "cheese",
                     "sugar syrup",
-                    "rose water",
-                    "pistachios"
+                    "rose water"
                 ],
                 "method": "1. Mix shredded phyllo dough with melted butter. \n2. Press half of the mixture into a greased baking dish. \n3. Spread cheese over the dough. \n4. Top with remaining dough. \n5. Bake until golden brown. \n6. Pour sugar syrup over the hot knafeh. \n7. Sprinkle with rose water and chopped pistachios. \n8. Serve warm.",
                 "rating": 4.6,
@@ -346,16 +319,13 @@
             },
             {
                 "name": "Fatteh",
+                "img": "https://i.postimg.cc/NMkvY1K0/meat-3.jpg",
                 "ingredients": [
                     "pita bread",
                     "chickpeas",
                     "yogurt",
                     "garlic",
-                    "lemon juice",
-                    "olive oil",
-                    "pine nuts",
-                    "parsley",
-                    "salt"
+                    "lemon juice"
                 ],
                 "method": "1. Toast pita bread until crispy. \n2. Layer chickpeas and pita bread in a serving dish. \n3. Mix yogurt, garlic, lemon juice, and salt. \n4. Pour yogurt mixture over the pita and chickpeas. \n5. Fry pine nuts until golden brown. \n6. Sprinkle pine nuts and parsley over the top. \n7. Drizzle with olive oil. \n8. Serve immediately.",
                 "rating": 4.9,
